@@ -1,3 +1,7 @@
+<p align="center">
+My personal curated list of things inpsired by sindreshus's <a href="https://github.com/sindresorhus/awesome">Awesome List</a>
+</p>
+
 ## Contents
 
 - [JS](#js)
