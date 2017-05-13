@@ -14,3 +14,4 @@ My personal curated list of things inpsired by sindreshus's <a href="https://git
 
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
+- [Martin Fowler's on microservices](https://martinfowler.com/articles/microservices.html)
