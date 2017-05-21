@@ -6,6 +6,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 - [JS](#js)
 - [Node JS](#node-js)
+- [PHP](#php)
 - [Software Engineering](#software-engineering)
 
 
@@ -15,6 +16,9 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## Node JS
 - [Finding modules](http://substack.net/finding_modules)
+
+## PHP
+- [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
 
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
