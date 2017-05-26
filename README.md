@@ -7,6 +7,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [JS](#js)
 - [Node JS](#node-js)
 - [PHP](#php)
+- [React JS](#react)
 - [Software Engineering](#software-engineering)
 
 
@@ -19,6 +20,9 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## PHP
 - [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
+
+## React
+- [RomeJS: A React IDE](https://hackernoon.com/romejs-just-launched-and-it-feels-like-christmas-37dc7beac82f)
 
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
