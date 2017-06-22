@@ -12,6 +12,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 
 ## JS
+- [Async callback hell](http://callbackhell.com/)
 - [Express JS examples](https://github.com/expressjs/express/tree/master/examples)
 - [JS at Spotify with Mattias Petter](https://softwareengineeringdaily.com/2015/08/01/javascript-at-spotify-with-mattias-petter-johansson/)
 
