@@ -18,6 +18,8 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Finding modules](http://substack.net/finding_modules)
 
 ## PHP
+- [My tutorial in Github](https://github.com/ocpineda/php-tutorials)
+- [Namespaces](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
 - [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
 
 ## Software Engineering
