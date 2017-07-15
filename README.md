@@ -7,10 +7,12 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [JS](#js)
 - [Node JS](#node-js)
 - [PHP](#php)
+- [React JS](#react)
 - [Software Engineering](#software-engineering)
 
 
 ## JS
+- [Async callback hell](http://callbackhell.com/)
 - [Express JS examples](https://github.com/expressjs/express/tree/master/examples)
 - [JS at Spotify with Mattias Petter](https://softwareengineeringdaily.com/2015/08/01/javascript-at-spotify-with-mattias-petter-johansson/)
 
@@ -21,6 +23,9 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [My tutorial in Github](https://github.com/ocpineda/php-tutorials)
 - [Namespaces](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
 - [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
+
+## React
+- [RomeJS: A React IDE](https://hackernoon.com/romejs-just-launched-and-it-feels-like-christmas-37dc7beac82f)
 
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
