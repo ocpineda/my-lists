@@ -7,6 +7,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [JS](#js)
 - [Node JS](#node-js)
 - [PHP](#php)
+- [Productivity](#productivity)
 - [React JS](#react)
 - [Software Engineering](#software-engineering)
 
@@ -25,6 +26,9 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [My tutorial in Github](https://github.com/ocpineda/php-tutorials)
 - [Namespaces](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
 - [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
+
+## Productivity
+- [The Importance of Deep Work](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
 
 ## React
 - [RomeJS: A React IDE](https://hackernoon.com/romejs-just-launched-and-it-feels-like-christmas-37dc7beac82f)
