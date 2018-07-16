@@ -9,6 +9,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [PHP](#php)
 - [React JS](#react)
 - [Software Engineering](#software-engineering)
+- [Web Architecture](#web-architecture)
 
 
 ## JS
@@ -30,3 +31,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
 - [Martin Fowler on microservices](https://martinfowler.com/articles/microservices.html)
+
+
+## Web Architecture
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
