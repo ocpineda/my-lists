@@ -27,6 +27,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 - [League of Extraordinary Packages](https://thephpleague.com/)
 - [My tutorial in Github](https://github.com/ocpineda/php-tutorials)
+- [Monetary values in PHP](http://moneyphp.org/en/stable/)
 - [Namespaces](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)  
 - [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
 
