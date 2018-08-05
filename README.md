@@ -11,6 +11,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Productivity](#productivity)
 - [React JS](#react)
 - [Software Engineering](#software-engineering)
+- [Web Architecture](#web-architecture)
 
 ## Dot files
 - [My own dotfiles](https://github.com/ocpineda/dotfiles)
@@ -26,8 +27,11 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Finding modules](http://substack.net/finding_modules)
 
 ## PHP
+
+- [League of Extraordinary Packages](https://thephpleague.com/)
 - [My tutorial in Github](https://github.com/ocpineda/php-tutorials)
-- [Namespaces](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
+- [Monetary values in PHP](http://moneyphp.org/en/stable/)
+- [Namespaces](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)  
 - [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
 
 ## Productivity
@@ -39,3 +43,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
 - [Martin Fowler on microservices](https://martinfowler.com/articles/microservices.html)
+
+
+## Web Architecture
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
