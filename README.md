@@ -4,6 +4,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## Contents
 
+- [Dot files](#dot-files)
 - [JS](#js)
 - [Node JS](#node-js)
 - [PHP](#php)
@@ -11,6 +12,8 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [React JS](#react)
 - [Software Engineering](#software-engineering)
 
+## Dot files
+- [My own dotfiles](https://github.com/ocpineda/dotfiles)
 
 ## JS
 - [Async callback hell](http://callbackhell.com/)
