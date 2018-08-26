@@ -1,5 +1,6 @@
 ## Friends
 
+- [Barefoot Diary](http://barefootdiary.com/)
 - [Tales Laced with Pixiepoo!!](https://taleslacedwithpixiepoo.wordpress.com/)
 
 ## Podcasts
