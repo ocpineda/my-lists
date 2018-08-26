@@ -1,3 +1,7 @@
+## Friends
+
+- [Tales Laced with Pixiepoo!!](https://taleslacedwithpixiepoo.wordpress.com/)
+
 ## Podcasts
 
 - Hansel Minutes
