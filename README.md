@@ -4,6 +4,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## Contents
 
+- [Bloggers I follow](blogs-i-follow.md)
 - [Dot files](#dot-files)
 - [JS](#js)
 - [Node JS](#node-js)
@@ -42,6 +43,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
+- [Julia Evans' Zines on computer concepts](https://jvns.ca/zines/)
 - [Martin Fowler on microservices](https://martinfowler.com/articles/microservices.html)
 
 
