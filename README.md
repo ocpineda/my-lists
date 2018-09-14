@@ -22,7 +22,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Callback functions & how to use](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 - [Express JS examples](https://github.com/expressjs/express/tree/master/examples)
 - [JS at Spotify with Mattias Petter](https://softwareengineeringdaily.com/2015/08/01/javascript-at-spotify-with-mattias-petter-johansson/)
-- [Modular JS](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
+- [Modular JS.](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
 
 ## Node JS
 - [Finding modules](http://substack.net/finding_modules)
