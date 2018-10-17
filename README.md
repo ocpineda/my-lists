@@ -9,6 +9,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [JS](#js)
 - [Node JS](#node-js)
 - [PHP](#php)
+- [Programming Practice](#programming-practice-coding-challenges)
 - [Productivity](#productivity)
 - [React JS](#react)
 - [Software Engineering](#software-engineering)
@@ -34,6 +35,16 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Monetary values in PHP](http://moneyphp.org/en/stable/)
 - [Namespaces](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)  
 - [Upgrade PHP in Mac OSX](https://jason.pureconcepts.net/2016/09/upgrade-php-mac-os-x/)
+
+
+## Programming Practice Coding Challenges
+
+- [Code Wars](https://www.codewars.com/)
+- [Cyber Dojo](https://www.codewars.com/)
+- [Hacker Rank](https://www.hackerrank.com/)
+- [Project Euler](https://projecteuler.net/)
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+
 
 ## Productivity
 - [The Importance of Deep Work](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
