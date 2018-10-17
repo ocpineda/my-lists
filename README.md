@@ -9,7 +9,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [JS](#js)
 - [Node JS](#node-js)
 - [PHP](#php)
-- [Programming Practice](#programming-practice-coding-challenges)
+- [Programming Practice / Coding Challenges](#programming-practice-coding-challenges)
 - [Productivity](#productivity)
 - [React JS](#react)
 - [Software Engineering](#software-engineering)
