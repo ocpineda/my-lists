@@ -13,6 +13,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Productivity](#productivity)
 - [React JS](#react)
 - [Software Engineering](#software-engineering)
+- [Test Driven Development](#test-driven-development)
 - [Web Architecture](#web-architecture)
 
 ## Dot files
@@ -57,6 +58,8 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Julia Evans' Zines on computer concepts](https://jvns.ca/zines/)
 - [Martin Fowler on microservices](https://martinfowler.com/articles/microservices.html)
 
+## Test Driven Development
+- [Let's Play TDD with James Shore](https://www.youtube.com/watch?v=F534zh9rsaA&list=PL0CCC6BD6AFF097B1)
 
 ## Web Architecture
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
