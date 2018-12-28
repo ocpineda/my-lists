@@ -57,6 +57,8 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
 - [Julia Evans' Zines on computer concepts](https://jvns.ca/zines/)
 - [Martin Fowler on microservices](https://martinfowler.com/articles/microservices.html)
+- [Structure & Interpretation of Computer Languages](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLE18841CABEA24090)
+
 
 ## Test Driven Development
 - [Let's Play TDD with James Shore](https://www.youtube.com/watch?v=F534zh9rsaA&list=PL0CCC6BD6AFF097B1)
