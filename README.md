@@ -4,6 +4,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## Contents
 
+- [Azure](#azure)
 - [Bloggers I follow](blogs-i-follow.md)
 - [Dot files](#dot-files)
 - [JS](#js)
@@ -15,6 +16,9 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Software Engineering](#software-engineering)
 - [Test Driven Development](#test-driven-development)
 - [Web Architecture](#web-architecture)
+
+## Azure
+- [Azure architecture guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
 
 ## Dot files
 - [My own dotfiles](https://github.com/ocpineda/dotfiles)
