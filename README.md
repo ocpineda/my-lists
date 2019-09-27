@@ -47,6 +47,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 - [Code Wars](https://www.codewars.com/)
 - [Cyber Dojo](https://www.codewars.com/)
 - [Hacker Rank](https://www.hackerrank.com/)
+- [Programming Idioms](https://www.programming-idioms.org/) Common challenges in different languages
 - [Project Euler](https://projecteuler.net/)
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 
@@ -59,6 +60,7 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
+- [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [Julia Evans' Zines on computer concepts](https://jvns.ca/zines/)
 - [Martin Fowler on microservices](https://martinfowler.com/articles/microservices.html)
 - [Structure & Interpretation of Computer Languages](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLE18841CABEA24090)
