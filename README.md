@@ -4,15 +4,16 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 
 ## Contents
 
+- [Contents](#contents)
 - [Azure](#azure)
-- [Bloggers I follow](blogs-i-follow.md)
 - [Dot files](#dot-files)
 - [JS](#js)
 - [Node JS](#node-js)
 - [PHP](#php)
-- [Programming Practice / Coding Challenges](#programming-practice-coding-challenges)
+- [Programming Practice Coding Challenges](#programming-practice-coding-challenges)
 - [Productivity](#productivity)
-- [React JS](#react)
+- [React](#react)
+- [Security](#security)
 - [Software Engineering](#software-engineering)
 - [Test Driven Development](#test-driven-development)
 - [Web Architecture](#web-architecture)
@@ -58,6 +59,9 @@ My personal, curated list of things inspired by sindresorhus's <a href="https://
 ## React
 - [RomeJS: A React IDE](https://hackernoon.com/romejs-just-launched-and-it-feels-like-christmas-37dc7beac82f)
 
+## Security
+- [CTF101.org](https://ctf101.org)
+- [Carnegie Mellon CtF tutorials](https://picoctf.org/)
 ## Software Engineering
 - [Educational Mithridatism](https://zedshaw.com/2015/09/14/educational-mithridatism/): Zed Shaw's essay on doing hard things
 - [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
